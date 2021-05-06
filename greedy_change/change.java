@@ -12,7 +12,7 @@ public class change {
         
         Scanner sc = new Scanner(System.in);
         input = sc.nextInt();
-        cash = input;
+        cash = input; 
         
 
         if(cash >= 500){
